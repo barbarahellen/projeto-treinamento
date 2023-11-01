@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'projeto-treinamento';
+  nomePai = 'Barbara';
+
+  
+  /* como fazer uma função
+  buscaNome(): string{       // função buscaNome retorna uma string
+    return this.nomePai;
+  }
+  */
 }
